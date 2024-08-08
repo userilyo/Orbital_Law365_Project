@@ -1,5 +1,5 @@
-# Orbital_witness
-Tech challenges given by Orbital Witness company
+# Short project Project for Orbital
+
 # Create a solution to extract data from a pdf file.
 
 ## 1. Setting the environment:
